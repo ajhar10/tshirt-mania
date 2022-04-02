@@ -1,0 +1,14 @@
+.tshirt {
+    height: 400px;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+}
+
+.tshirt img {
+    height: 250px;
+}
+
+/* //button  */
+.tshirt button {
+    cursor: pointer;
+}
